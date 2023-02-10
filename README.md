@@ -1,4 +1,3 @@
-# particles
-
-vanilla javascript to create the animation of particles.
-this animation will be further used in different projects based on the requirement of the devloper
+# particles canvas effect
+1. Used vanilla javascript to devlop the canvas and create particles animation.
+2. Used circle collision algorithm to detect if particles are colliding and changed their trajactory based on the cursor position.
